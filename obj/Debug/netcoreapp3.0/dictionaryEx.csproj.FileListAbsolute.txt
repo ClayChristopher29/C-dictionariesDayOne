@@ -1,0 +1,11 @@
+C:\Users\newforce\workspace2\cohort2\c#\dictionaryEx\bin\Debug\netcoreapp3.0\dictionaryEx.exe
+C:\Users\newforce\workspace2\cohort2\c#\dictionaryEx\bin\Debug\netcoreapp3.0\dictionaryEx.deps.json
+C:\Users\newforce\workspace2\cohort2\c#\dictionaryEx\bin\Debug\netcoreapp3.0\dictionaryEx.runtimeconfig.json
+C:\Users\newforce\workspace2\cohort2\c#\dictionaryEx\bin\Debug\netcoreapp3.0\dictionaryEx.runtimeconfig.dev.json
+C:\Users\newforce\workspace2\cohort2\c#\dictionaryEx\bin\Debug\netcoreapp3.0\dictionaryEx.dll
+C:\Users\newforce\workspace2\cohort2\c#\dictionaryEx\bin\Debug\netcoreapp3.0\dictionaryEx.pdb
+C:\Users\newforce\workspace2\cohort2\c#\dictionaryEx\obj\Debug\netcoreapp3.0\dictionaryEx.csprojAssemblyReference.cache
+C:\Users\newforce\workspace2\cohort2\c#\dictionaryEx\obj\Debug\netcoreapp3.0\dictionaryEx.AssemblyInfoInputs.cache
+C:\Users\newforce\workspace2\cohort2\c#\dictionaryEx\obj\Debug\netcoreapp3.0\dictionaryEx.AssemblyInfo.cs
+C:\Users\newforce\workspace2\cohort2\c#\dictionaryEx\obj\Debug\netcoreapp3.0\dictionaryEx.dll
+C:\Users\newforce\workspace2\cohort2\c#\dictionaryEx\obj\Debug\netcoreapp3.0\dictionaryEx.pdb
